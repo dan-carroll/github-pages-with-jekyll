@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Dan Carroll's blog
 
-I'm glad you are here. I plan to talk about ...
+This is all about setting up a GitHub Pages site with Jekyll. Part of the GitHub Learning Lab course.
